@@ -3,6 +3,6 @@
 3. To view the webpage run 
 ```python -m SimpleHTTPServer <port>``` 
 and 
-```websocketd --port <port> python kanye_tweat_stream.py```
+```websocketd --port 8000 python kanye_tweat_stream.py```
 
 Sources:  I used http://socialmedia-class.org/twittertutorial.html for help streaming the tweets
